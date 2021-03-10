@@ -1,0 +1,13 @@
+{
+  "apikey": "y_WTRR-LFm5FcLMkHdWOT-8EKP3wXitXkH2Pp1QtW9gY",
+  "cos_hmac_keys": {
+    "access_key_id": "41ff1838a1564fe4ad2521959fa59a90",
+    "secret_access_key": "d6cee550978aa3dfb06ca60926734b10685bc634ab0f3adf"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key 41ff1838-a156-4fe4-ad25-21959fa59a90",
+  "iam_apikey_name": "minhyuk",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/63f399e33de84556912cc82982ec6625::serviceid:ServiceId-e2e821a2-fc5b-4154-a2a1-d23fc1af4fd7",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/63f399e33de84556912cc82982ec6625:1a1496b8-d10d-4c79-84c7-8fa12c027ca4::"
+}
